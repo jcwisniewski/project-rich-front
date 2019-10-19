@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@websanova/vue-upload": "^1.2.5-beta",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "botui": "^0.3.8",
     "vue": "^2.6.8",
     "vue-router": "^3.0.1"
